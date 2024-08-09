@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "email": "Vardhan.kansur@gmail.com"
+  },
+  {
+    "id": 2,
+    "firstName": "Sarmin",
+    "lastName": "K",
+    "dob": "2001-05-24",
+    "gender": "F",
+    "email": "iamsarminkhatun@gmail.com",
+    "phoneNo": "9876543210",
+    "streetAddress1": "Patil Nagar",
+    "streetAddress2": "Bavdhan",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "country": "India",
+    "zipCode": "411021",
+    "socialMediaLink": "http://www.linkedin.in",
+    "work": "Nell Infotech"
+  }
+]
